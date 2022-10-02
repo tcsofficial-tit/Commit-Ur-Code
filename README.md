@@ -8,9 +8,9 @@ The main focus will be on the following topics📝:-<br>
 2. Algorithms 📈<br>
 </strong>
 <br>
-Along with these you will be learning the basic elements of different languages like <strong>C++,Python and Java<strong>,etc.that are commonly used in competitive programming,tutorial on Github will be there.<br>
+Along with these you will be learning the basic elements of different languages like <strong>C++,Python and Java<strong>,etc. that are commonly used in competitive programming, tutorial on Github will be there.<br>
 Don't worry if you are not familiar with these ,we will start from the very basic elements .
-Coding is not something that you can learn in a day or two .So,the event will go on for a week. You will also be given some problem statements to solve.
+Coding is not something that you can learn in a day or two .So,the event will go on for a month. You will also be given some problem statements to solve.
 <!-- Besides these a certificate🎓 will also be provided . -->
 <h3 align="Center">Are you ready for the code-ride ?</h3>
 </p>
