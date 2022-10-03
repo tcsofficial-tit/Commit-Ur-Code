@@ -4,3 +4,7 @@
 ```plaintext
 Write a hello world program in your preferred language(c++/java/python)
 ```
+#include<stdio.h>
+void main(){
+printf("hello wolrd");
+}
